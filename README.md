@@ -4,7 +4,7 @@
 
 ✅ Graduated in Software Development from Simplon Grenoble
 
-⏳ #### I'm actively looking for seeking an apprenticeship in cybersecurity
+#### ⏳ I'm actively looking for seeking an apprenticeship in cybersecurity
 
 ## My Projects
 
