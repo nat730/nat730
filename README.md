@@ -1,12 +1,10 @@
 # Application Developer
 
-👨💻 Application Developer based in France, in Aix-Les-Bains, SAVOIE 🇫🇷.
+👨💻 Application Developer based in France, in Grenoble, ISERE 🇫🇷.
 
-✅ Graduated in Web & Mobile Development from Simplon Chambéry
+✅ Graduated in Software Development from Simplon Grenoble
 
-⏳ Currently undergoing training as an Application Developer at Simplon Grenoble
-
-#### I'm actively looking for an internship starting from June 17th to October 11th 2024.
+⏳ #### I'm actively looking for seeking an apprenticeship in cybersecurity
 
 ## My Projects
 
