@@ -36,10 +36,10 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 ## Tools
 | Tools |  |
 |:---------:|:----------:|
-|Organisation| ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white)|
+|Organisation|![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white)|
 |Design| ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white) |
 
 
 
-| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TryZorce&theme=github) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TryZorce&theme=github) |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nat730&theme=github) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nat730&theme=github) |
 | --- | --- |
